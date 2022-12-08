@@ -1,2 +1,2 @@
 # Pizza-Project
-Project
+A Pizza Order form I made that uses HTML, CSS, and Javascript.
